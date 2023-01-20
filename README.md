@@ -128,9 +128,11 @@ Write HTML and CSS code for designing book cover page and execute user
     </body>
 </html>
 ```
-
 ## Output:
-Include your output screenshot here
+![OUTPUT](./bookcover.png)
+
+## HTML VALIDATOR
+![HTML VALIDATOR](./validcover.png)
 
 ## Result:
-Write your result
+The program for designing book cover page using HTML and CSS is executed successfully 
